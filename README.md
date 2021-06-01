@@ -27,4 +27,5 @@ Two approaches were used, both do the same, but the first one uses a a Restful A
 
 ## Technologies used
 
-1. React Js Framework
+1. Django
+2. React Js Framework
